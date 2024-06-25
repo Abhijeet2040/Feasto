@@ -6,7 +6,7 @@ const Index = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text className="text-2xl">Index</Text>
+        <Text>Index</Text>
         <Link href="/Home">go to home</Link>
       </View>
     </SafeAreaView>
